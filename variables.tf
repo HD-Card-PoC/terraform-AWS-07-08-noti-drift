@@ -15,5 +15,5 @@ variable prefix {
 }
 
 variable ec2_key{
-  default = "TDPT-Vault-kp-common"
+  default = "DPT-Vault-kp-common"
 }
